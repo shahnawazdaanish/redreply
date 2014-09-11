@@ -1,6 +1,6 @@
 if(screen.width>=480)
 {
-    $('#dimensons').addClass('fixed');
+    $('#dimensions').addClass('fixed');
 } else {
-    $('#dimensons').removeClass('fixed');
+    $('#dimensions').removeClass('fixed');
 }
